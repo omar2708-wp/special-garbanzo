@@ -1,0 +1,51 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.83.254.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1780807662110
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1780812613870
+  login: 1780812457471
+  kits:
+    start: 1780781596226
+    mvp: 1780792670046
+    vip: 1780792784884
+money: '15874.0'
+last-account-name: esquixh_gg
+lastlocation:
+  world: 5691d948-7217-48a4-8edb-69b52cf7f281
+  world-name: playworld
+  x: -1083.0235537985584
+  y: 70.0
+  z: -745.5144221179819
+  yaw: 52.708221435546875
+  pitch: -43.67138671875
+logoutlocation:
+  world: 5691d948-7217-48a4-8edb-69b52cf7f281
+  world-name: playworld
+  x: -1084.128184095669
+  y: 88.79673560066871
+  z: -732.4836209163373
+  yaw: 170.84486389160156
+  pitch: 15.447628021240234
+homes:
+  home:
+    world: 5691d948-7217-48a4-8edb-69b52cf7f281
+    world-name: playworld
+    x: -1076.4753642691403
+    y: 87.0
+    z: -737.1637319386273
+    yaw: -42.026123046875
+    pitch: 13.324943542480469

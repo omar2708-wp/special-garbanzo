@@ -1,0 +1,360 @@
+{
+  "world": [
+    {
+      "chunkX": -1,
+      "chunkZ": -7,
+      "machines": [
+        {
+          "id": "310fa887-d892-456d-a527-84b2c71af634",
+          "type": "SlotMachine",
+          "blocks": [
+            -10,
+            73,
+            -102,
+            -10,
+            74,
+            -102,
+            -10,
+            73,
+            -100
+          ],
+          "direction": "SOUTH",
+          "entities": [
+            "f546a40a-605e-44c5-96ed-809ac2a0953d",
+            "fc92b5f0-eb22-4bcb-b927-8c53291caaea"
+          ]
+        },
+        {
+          "id": "02d011d0-e7a4-4c46-a8f6-49cef897a587",
+          "type": "crash",
+          "blocks": [
+            -6,
+            73,
+            -103,
+            -6,
+            74,
+            -103,
+            -6,
+            75,
+            -103
+          ],
+          "direction": "SOUTH",
+          "entities": [
+            "e4efdfcb-06e0-4b17-aaf1-3c69056b88a4"
+          ]
+        }
+      ]
+    },
+    {
+      "chunkX": 0,
+      "chunkZ": -7,
+      "machines": [
+        {
+          "id": "7c7eaeed-30bf-4b40-8f2b-108293159df7",
+          "type": "SlotMachine",
+          "blocks": [
+            6,
+            73,
+            -102,
+            6,
+            74,
+            -102,
+            6,
+            73,
+            -100
+          ],
+          "direction": "SOUTH",
+          "entities": [
+            "659c3982-2c81-4422-8f2f-0fb85987873c",
+            "2abdcc10-52e8-48f2-b5a9-f26fd3c5d795"
+          ]
+        },
+        {
+          "id": "615c8f0c-c2a7-4422-852f-1c014436f0fd",
+          "type": "SlotMachine",
+          "blocks": [
+            11,
+            73,
+            -101,
+            11,
+            74,
+            -101,
+            9,
+            73,
+            -101
+          ],
+          "direction": "WEST",
+          "entities": [
+            "0488ec22-3ee2-4bf4-bed4-d36020c2289a",
+            "149f1af8-1ccb-490f-91ff-c976c08a3872"
+          ]
+        },
+        {
+          "id": "2761a856-32e0-44c1-81a8-261e7a33eaf3",
+          "type": "lottery",
+          "blocks": [
+            11,
+            73,
+            -97,
+            11,
+            74,
+            -97,
+            11,
+            75,
+            -97
+          ],
+          "direction": "WEST",
+          "entities": [
+            "aa00918d-a697-4bf5-8059-8d877a54c4f2"
+          ]
+        },
+        {
+          "id": "90b25f3d-e6e8-4811-a8ab-016c82ed2577",
+          "type": "blackjack",
+          "blocks": [
+            0,
+            73,
+            -105,
+            1,
+            73,
+            -105,
+            -1,
+            73,
+            -105
+          ],
+          "direction": "WEST",
+          "entities": [
+            "24e8da00-7abf-47bb-ade8-4c4c2ed28f53",
+            "ce911b2a-7d22-43ab-94af-14ad2edf6724",
+            "8358fa8d-fb90-4159-adc5-6640fe447081"
+          ]
+        }
+      ]
+    },
+    {
+      "chunkX": 0,
+      "chunkZ": -5,
+      "machines": [
+        {
+          "id": "d8848a35-1902-4bd7-914c-9e42e1a8d2f2",
+          "type": "SlotMachine",
+          "blocks": [
+            10,
+            73,
+            -78,
+            10,
+            74,
+            -78,
+            10,
+            73,
+            -76
+          ],
+          "direction": "SOUTH",
+          "entities": [
+            "fa81387a-09b5-4ff3-847a-a413979c1985",
+            "5bb16a69-dcb1-40dd-b8f7-6fa9a27b72fc"
+          ]
+        },
+        {
+          "id": "c9bc4450-c3af-4f90-af9f-fd760b79857e",
+          "type": "SlotMachine",
+          "blocks": [
+            10,
+            73,
+            -72,
+            10,
+            74,
+            -72,
+            10,
+            73,
+            -74
+          ],
+          "direction": "NORTH",
+          "entities": [
+            "523477aa-7303-417d-8e6b-30434f0be05d",
+            "6e6dbc3f-32f3-4e52-9cf4-4a5f9d7b52f6"
+          ]
+        },
+        {
+          "id": "477b16af-b2bd-4f47-8e90-b80b657a5b31",
+          "type": "lottery",
+          "blocks": [
+            6,
+            73,
+            -71,
+            6,
+            74,
+            -71,
+            6,
+            75,
+            -71
+          ],
+          "direction": "NORTH",
+          "entities": [
+            "11c2f607-5d6a-434b-b555-cb851b588469"
+          ]
+        },
+        {
+          "id": "3a7464b3-7d80-4a55-8011-603f9b0cf8f5",
+          "type": "blackjack",
+          "blocks": [
+            0,
+            73,
+            -69,
+            -1,
+            73,
+            -69,
+            1,
+            73,
+            -69
+          ],
+          "direction": "EAST",
+          "entities": [
+            "6655601e-ce8d-4d56-8c75-8e40a853e456",
+            "b4a6a083-edaa-4136-baca-1a6aa6352d59",
+            "5bec6bfc-5c42-4b99-a08f-c5ad5060d537"
+          ]
+        }
+      ]
+    },
+    {
+      "chunkX": -1,
+      "chunkZ": -5,
+      "machines": [
+        {
+          "id": "f9b1da7e-2b56-4b71-9db8-a838ea3b558c",
+          "type": "SlotMachine",
+          "blocks": [
+            -6,
+            73,
+            -72,
+            -6,
+            74,
+            -72,
+            -6,
+            73,
+            -74
+          ],
+          "direction": "NORTH",
+          "entities": [
+            "80a00435-b5a7-4e69-b710-d8458547cc53",
+            "4e04f42f-e6ca-4f62-a9c4-ba0b72cf4066"
+          ]
+        },
+        {
+          "id": "a5e0749c-4b96-4d62-860a-efda86fe5cf9",
+          "type": "SlotMachine",
+          "blocks": [
+            -10,
+            73,
+            -73,
+            -10,
+            74,
+            -73,
+            -8,
+            73,
+            -73
+          ],
+          "direction": "EAST",
+          "entities": [
+            "2d34aed7-85e9-4be4-abc6-6badad65566e",
+            "3cf2f3f6-64cd-4609-8f62-d041cb530fe7"
+          ]
+        },
+        {
+          "id": "37b1688c-e07e-4543-8b25-95cd439fca6e",
+          "type": "crash",
+          "blocks": [
+            -11,
+            73,
+            -77,
+            -11,
+            74,
+            -77,
+            -11,
+            75,
+            -77
+          ],
+          "direction": "EAST",
+          "entities": [
+            "6b691f47-fbdb-4efa-a283-8afdaa2acf38"
+          ]
+        }
+      ]
+    },
+    {
+      "chunkX": 0,
+      "chunkZ": -6,
+      "machines": [
+        {
+          "id": "2c22d2b8-eeb2-46a6-8741-4236282cebd6",
+          "type": "blackjack",
+          "blocks": [
+            6,
+            73,
+            -89,
+            6,
+            73,
+            -90,
+            6,
+            73,
+            -88
+          ],
+          "direction": "NORTH",
+          "entities": [
+            "0424c5ee-7111-427e-b3c3-753fbe362f70",
+            "23984607-ea01-47d3-a545-f0d4dabd2331",
+            "04222c9c-a3b3-4bc1-943a-9a76a12b8eec"
+          ]
+        },
+        {
+          "id": "281e3e77-4089-4cbb-9170-f5b6c781c5e9",
+          "type": "blackjack",
+          "blocks": [
+            6,
+            73,
+            -85,
+            6,
+            73,
+            -86,
+            6,
+            73,
+            -84
+          ],
+          "direction": "NORTH",
+          "entities": [
+            "598a95be-6499-47eb-a28b-209583b9d24e",
+            "2d33eaeb-4489-4b68-a3c9-425b098ff4f9",
+            "c92ea3b4-526f-4891-9b4f-3ae8bda26a76"
+          ]
+        }
+      ]
+    },
+    {
+      "chunkX": -1,
+      "chunkZ": -6,
+      "machines": [
+        {
+          "id": "2de8669f-3d8d-4d0f-bc0c-82eb6141b5db",
+          "type": "SlotMachine",
+          "blocks": [
+            -10,
+            73,
+            -96,
+            -10,
+            74,
+            -96,
+            -10,
+            73,
+            -98
+          ],
+          "direction": "NORTH",
+          "entities": [
+            "0135eca3-37fd-4c1c-afe5-1ce51202a16a",
+            "78955858-decf-4169-8d61-e238264cd208"
+          ]
+        }
+      ]
+    }
+  ]
+}

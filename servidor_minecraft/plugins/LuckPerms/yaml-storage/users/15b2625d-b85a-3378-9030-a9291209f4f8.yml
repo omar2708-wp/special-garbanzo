@@ -1,0 +1,9 @@
+uuid: 15b2625d-b85a-3378-9030-a9291209f4f8
+name: gecko1177
+primary-group: default
+permissions:
+- reward.ready.1
+- reward.ready.2
+- reward.ready.3
+parents:
+- default

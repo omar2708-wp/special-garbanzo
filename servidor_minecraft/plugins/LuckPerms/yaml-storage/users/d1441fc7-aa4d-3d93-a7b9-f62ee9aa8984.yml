@@ -1,0 +1,28 @@
+uuid: d1441fc7-aa4d-3d93-a7b9-f62ee9aa8984
+name: esquixh_gg
+primary-group: mvp
+permissions:
+- essentials.fly:
+    value: true
+    expiry: 1780854622
+- reward.ready.1
+- reward.ready.10
+- reward.ready.11
+- reward.ready.15
+- reward.ready.16
+- reward.ready.17
+- reward.ready.18
+- reward.ready.19
+- reward.ready.2
+- reward.ready.20
+- reward.ready.3
+- reward.ready.4
+- reward.ready.5
+- reward.ready.7
+- reward.ready.8
+- reward.ready.9
+- rift.take.1
+- unlock.mine:
+    value: false
+parents:
+- mvp

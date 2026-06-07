@@ -1,0 +1,61 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.108.183.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1780812556843
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1780795444476
+  login: 1780809522941
+  kits:
+    start: 1780529809908
+    worker: 1780605098124
+    vip: 1780605107642
+    mvp: 1780793084882
+money: '40621.91860000000073616'
+last-account-name: Saoki
+lastlocation:
+  world: 5691d948-7217-48a4-8edb-69b52cf7f281
+  world-name: playworld
+  x: -1052.5
+  y: 87.0
+  z: -706.5
+  yaw: -37.094085693359375
+  pitch: -0.2410728484392166
+logoutlocation:
+  world: 5691d948-7217-48a4-8edb-69b52cf7f281
+  world-name: playworld
+  x: -1930.699999988079
+  y: 118.0
+  z: -906.8563193786244
+  yaw: 113.400390625
+  pitch: 19.50007438659668
+homes:
+  home:
+    world: 5691d948-7217-48a4-8edb-69b52cf7f281
+    world-name: playworld
+    x: -1934.1238303543435
+    y: 118.0
+    z: -902.9381462752817
+    yaw: -17.85455322265625
+    pitch: 13.79993724822998
+  stash:
+    world: 5691d948-7217-48a4-8edb-69b52cf7f281
+    world-name: playworld
+    x: -1840.762499988079
+    y: -10.0
+    z: -1034.0478999522243
+    yaw: 67.9490966796875
+    pitch: 16.94993782043457
+confirm-pay: true

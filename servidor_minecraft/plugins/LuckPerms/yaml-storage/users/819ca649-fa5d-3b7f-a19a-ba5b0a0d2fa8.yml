@@ -1,0 +1,10 @@
+uuid: 819ca649-fa5d-3b7f-a19a-ba5b0a0d2fa8
+name: daelikesmangoes
+primary-group: default
+permissions:
+- reward.ready.1
+- reward.ready.2
+- reward.ready.3
+- reward.ready.4
+parents:
+- default
